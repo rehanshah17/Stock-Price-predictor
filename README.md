@@ -11,5 +11,3 @@ This project is a stock price prediction tool that leverages moving averages and
 - Compare execution times between single-threaded and multi-threaded data fetching.
 - Provide a user-friendly output for forecasted stock prices and performance comparison.
 
-## Project Structure
-
